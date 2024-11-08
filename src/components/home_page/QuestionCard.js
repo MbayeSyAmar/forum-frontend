@@ -12,9 +12,9 @@ function QuestionCard() {
         </div>
       </div>
       <div className="question-actions">
-        {/* <button>👍 4000</button> */}
-        {/* <button>👎 5</button> */}
-        {/* <button>💬 23</button> */}
+        <button>👍 4000</button>
+        <button>👎 5</button>
+        <button>💬 23</button>
       </div>
     </div>
   );
